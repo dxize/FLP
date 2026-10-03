@@ -1,0 +1,1 @@
+main = print (snd (fst ((1, 'a'), "abc")))
