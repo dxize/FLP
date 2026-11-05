@@ -1,0 +1,3 @@
+Hello, world! How are you?
+Haskell 2026: simple file test.
+This is line 3; it has punctuation... and numbers 123.
